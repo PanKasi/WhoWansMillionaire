@@ -100,6 +100,7 @@ void phone(char clet, char cran[]) {
 	Sleep(1400);
 	PlaySound(TEXT("ring_1.wav"), NULL, SND_FILENAME);
 	Sleep(850);
+	PlaySound(TEXT("pick-up.wav"), NULL, SND_FILENAME);
 	cout << "Grandma: Hello?\n";
 	Sleep(850);
 	cout << "Hi, we are callig from Who wants to be a Millioner\nand your grandson is playing.\n";
