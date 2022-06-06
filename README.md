@@ -1,5 +1,5 @@
 # WhoWansMillioner
-wright answers
+right answers
  1. a
  2. b
  3. d
