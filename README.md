@@ -1,1 +1,17 @@
 # WhoWansMillioner
+wright answers
+ 1. a
+ 2. b
+ 3. d
+ 4. b
+ 5. c
+ 6. a
+ 7. d
+ 8. d
+ 9. b
+10. c
+11. b
+12. b
+13. a
+14. c
+15. d
