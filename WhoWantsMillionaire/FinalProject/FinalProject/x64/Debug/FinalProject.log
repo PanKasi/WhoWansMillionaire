@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\VisualStudio\TelikhErgasia\FinalProject\FinalProject\Source.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VisualStudio\TelikhErgasia\FinalProject\FinalProject\Source.cpp(177,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VisualStudio\TelikhErgasia\FinalProject\FinalProject\Source.cpp(312,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VisualStudio\TelikhErgasia\FinalProject\FinalProject\Source.cpp(175): warning C4715: 'ffcheck': not all control paths return a value
+  FinalProject.vcxproj -> E:\VisualStudio\TelikhErgasia\FinalProject\x64\Debug\FinalProject.exe
